@@ -24,5 +24,3 @@ CSS - Styling and responsiveness
 
 JavaScript - Interactive features (lightbox, navigation, etc.)
 
-📸 Screenshots
-![WhatsApp Image 2025-03-08 at 7 04 24 PM](https://github.com/user-attachments/assets/a41989e3-f913-4012-9033-234a1cc18372)
